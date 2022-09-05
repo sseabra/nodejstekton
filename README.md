@@ -84,7 +84,7 @@ You can create a new OpenShift application using the web console or by running t
 - [OpenShift templates](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html#specifying-a-template)
 - [DockerHub images](https://docs.openshift.com/enterprise/3.0/dev_guide/new_app.html#specifying-an-image)
 
-#### Create a new app from source code (method 1)
+#### Create a new app from source code (method 1) 
 
 Pointing `oc new-app` at source code kicks off a chain of events, for our example run:
 
